@@ -1,5 +1,9 @@
 # No Axeptio
 
+<p align="center">
+  <img src="icon-active-128.png" width="96" height="96" alt="Screenshot Overlay Hider icon">
+</p>
+
 Chrome extension to temporarily hide visual overlays that can get in the way during screenshots or visual checks.
 
 It toggles a small CSS rule on the current tab to hide:
